@@ -1,0 +1,863 @@
+@media (min-width: 992px) {
+    .container {
+        width: 975px !important
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .product_wrapper img {
+        width: 100%;
+    }
+
+    .opis1 span {
+        font-size: 40px;
+        text-shadow: #fff -2px -2px 0, #fff 2px 2px 0, #fff 2px -2px 0, #fff -2px 2px 0;
+    }
+
+    .opis1 {
+        font-size: 20px;
+        top: 100px;
+        text-shadow: #fff -1px -1px 0, #fff 1px 1px 0, #fff 1px -1px 0, #fff -1px 1px 0;
+    }
+
+    .opis2 {
+        right: 0;
+        bottom: 47px;
+        font-size: 15px;
+    }
+
+    .header_list {
+        margin-top: 0;
+        font-size: 18px;
+    }
+
+    .new_price_val {
+        font-size: 30px;
+    }
+
+    .price__new {
+        padding: 15px 13px 10px 15px;
+        font-size: 15px;
+        -webkit-background-size: 100%;
+        -o-background-size: 100%;
+        background-size: 100%;
+    }
+
+    .header_opr {
+        font-size: 15px;
+    }
+
+    .price__old {
+        margin-left: 0;
+    }
+
+    .form__list .form__input,
+    select {
+        height: 40px;
+    }
+
+    .form__btn {
+        font-size: 23px;
+        padding: 6px 0;
+    }
+
+    .gif {
+        height: 170px;
+    }
+
+    .lenta_head span {
+        font-size: 40px;
+    }
+
+    .lenta_head {
+        font-size: 27px;
+        padding-top: 5px;
+    }
+
+    .lenta p {
+        font-size: 13px;
+    }
+
+    .lenta {
+        -webkit-background-size: 100%;
+        -o-background-size: 100%;
+        background-size: 100%;
+        padding: 0 0 25px 15px;
+    }
+
+    .chudo_head {
+        font-size: 30px;
+    }
+
+
+    .chudo {
+        background-repeat: repeat
+    }
+
+    .chudo_img span {
+        font-size: 32px;
+        left: 40px;
+        top: 16px;
+    }
+
+    .chudo_img div {
+        font-size: 26px;
+        top: 20px;
+    }
+
+    .skills_head {
+        font-size: 24px;
+    }
+
+    .skills_item p {
+        font-size: 12px;
+        padding-top: 20px;
+    }
+
+    .spec_text {
+        font-size: 14px;
+        padding-top: 0;
+    }
+
+    .spec_img address {
+        font-size: 14px;
+    }
+
+    .algoritm_item>span {
+        left: 107px;
+    }
+
+    .algoritm_item:after {
+        right: -50px;
+    }
+
+    .algoritm_wrapper .col-sm-6:nth-child(2) .algoritm_item:after {
+        display: none;
+    }
+
+    .algoritm_item {
+        margin-bottom: 30px;
+    }
+
+    .reviews_item img {
+        right: 32px;
+    }
+
+    .reviews_item span {
+        font-size: 11px;
+    }
+
+    .reviews_item p {
+        font-size: 12px;
+    }
+
+    .pressa_head {
+        font-size: 35px;
+    }
+
+    .pressa_text span {
+        font-size: 13px;
+    }
+
+    .pressa_text p {
+        font-size: 11px;
+    }
+
+    .pressa .row:last-child .col-md-6:last-child .pressa_text {
+        padding-right: 160px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+.uspey span:first-child{
+    font-size: 19px;
+}
+
+.uspey span:last-child{
+    font-size: 42px;
+}
+
+
+    .product_wrapper {
+        text-align: center;
+        width: 450px;
+        margin: 0 auto;
+    }
+
+    .product_wrapper img {
+        width: 100%;
+    }
+
+    .opis2 {
+        font-size: 18px;
+        right: 10px;
+        bottom: 63px;
+    }
+
+    .header_list hr {
+        width: 90%;
+        left: 30px;
+    }
+
+    .header_list {
+        padding-left: 50px;
+    }
+
+    .price_wrap {
+        text-align: center;
+        padding-bottom: 15px;
+    }
+
+    .video iframe {
+        margin-left: 0;
+        padding: 0 35px;
+    }
+
+    .video_wrapper {
+        background-repeat: repeat;
+    }
+
+    .form {
+        margin-top: 15px;
+    }
+
+    .problems_head {
+        font-size: 21px;
+    }
+
+    .gif img {
+        width: 375px;
+    }
+
+    .lenta_head {
+        font-size: 22px;
+    }
+
+    .lenta_head span {
+        font-size: 38px;
+    }
+
+    .chudo_head {
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+
+    .chudo_img {
+        width: 250px;
+        margin: 0 auto;
+    }
+
+    .chudo {
+        background-repeat: repeat;
+        background-position: center;
+    }
+
+    .lenta {
+        background-image: none;
+        background-color: #FFF;
+        padding-right: 15px;
+    }
+
+    .chudo_img span {
+        top: 10px;
+        left: 31px;
+        font-size: 30px;
+    }
+
+    .chudo_img div {
+        top: 15px;
+    }
+
+    .skills_head {
+        font-size: 17px;
+    }
+
+    .spec_head {
+        font-size: 33px;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .spec_img {
+        text-align: center;
+    }
+
+    .spec_img img {
+        width: auto;
+    }
+
+    .spec {
+        background-position: center;
+        background-repeat: repeat;
+    }
+
+    .algoritm_head {
+        font-size: 30px;
+    }
+
+    .algoritm_item:after {
+        display: none;
+    }
+
+    .algoritm_item {
+        width: 421px;
+        margin: 0 auto;
+    }
+
+    .algoritm_item>span {
+        left: 152px;
+    }
+
+    .reviews_item {
+        width: 421px;
+        margin: 0 auto 40px;
+    }
+
+    .reviews_item img {
+        right: 130px;
+    }
+
+    .reviews {
+        background-repeat: repeat;
+        background-position: center;
+    }
+
+    .pressa_head {
+        font-size: 27px;
+        text-align: center;
+        padding: 15px 19px 50px;
+    }
+
+    .pressa_item {
+        width: 421px;
+        margin: 0 auto 50px;
+    }
+
+    .pressa {
+        background-repeat: repeat;
+        background-position: center;
+    }
+
+    .pressa_text span {
+        font-size: 16px;
+    }
+
+    .pressa_text p {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 480px) {
+
+
+    .mobile {
+        display: block;
+        width: 320px;
+        margin: 0 auto;
+    }
+
+    .desktop {
+        display: none;
+    }
+
+
+    .video iframe {
+        margin-left: 0;
+    }
+
+    header,
+    footer {
+        background-color: transparent;
+        padding-bottom: 35px;
+    }
+
+    .product_wrapper {
+        background: url('../img/header_mob.png')/*tpa=http://c.myflextape.ru/v1/img/header_mob.png*/ center top no-repeat;
+        padding-top: 5px;
+    }
+
+    .opis1 {
+        top: 10px;
+        font-size: 20px;
+        text-align: center;
+        right: 13px;
+        text-shadow: #FFE -1px -1px 0, #fff 1px 1px 0, #fff 1px -1px 0, #fff -1px 1px 0;
+    }
+
+    .opis1 span {
+        font-size: 42px;
+        text-shadow: #fff -2px -2px 0, #fff 2px 2px 0, #fff 2px -2px 0, #fff -2px 2px 0;
+    }
+
+    .opis2 {
+        font-size: 12px;
+        right: 12px;
+        bottom: 59px;
+    }
+
+    .prices {
+        position: absolute;
+        top: 0;
+        width: 100%;
+    }
+
+    .double{
+        position: absolute;
+        top: 77px;
+        right: 38px;
+        font-size: 13px;
+    }
+
+    .header_opr {
+        display: inline-block;
+        font-size: 12px;
+    }
+
+    .old_price_val {
+        font-size: 13px;
+    }
+
+    .price__old {
+        position: relative;
+        left: 153px;
+        top: 95px;
+        margin-left: 0;
+    }
+
+    .old_price_cur {
+        font-size: 12px;
+    }
+
+    .price__new {
+        font-size: 10px;
+        -webkit-background-size: 100%;
+        -o-background-size: 100%;
+        background-size: 100%;
+        padding: 13px 36px 10px 34px;
+        position: relative;
+        left: 117px;
+        top: 90px;
+    }
+
+    .new_price_val {
+        font-size: 22px;
+    }
+
+    .new_price_cur {
+        font-size: 14px;
+    }
+
+    .header_list {
+        margin-top: 0;
+        color: #000;
+        font-size: 17px;
+        padding-left: 20px;
+        margin-bottom: 10px;
+    }
+
+    .header_list span {
+        color: #33A0E4;
+    }
+
+    .header_list li {
+        background: url('../img/znak_mob.png')/*tpa=http://c.myflextape.ru/v1/img/znak_mob.png*/ left center no-repeat;
+        padding-left: 40px;
+    }
+
+    .header_list hr {
+        border-color: #f0f0f0;
+        left: 15px;
+        width: 90%;
+    }
+
+    a.zak_btn {
+        text-align: center;
+        background-color: #fd0121;
+        display: block;
+        color: #fff;
+        text-transform: uppercase;
+        font-family: "CenturyGothicBold";
+        font-size: 24px;
+        padding: 20px 0;
+        margin: 0 15px;
+        -webkit-border-radius: 4px;
+                border-radius: 4px;
+    }
+
+    .problems{
+        background: url('../img/problems_mob.png')/*tpa=http://c.myflextape.ru/v1/img/problems_mob.png*/ center top no-repeat;
+        padding: 0 20px;
+    }
+
+    .problems_head{
+        font-size: 24px;
+        line-height: 1;
+        padding: 10px 0;
+    }
+
+    .gif{
+        height: auto;
+    }
+
+    .owl-dots{
+        text-align: center;
+        padding: 23px 0;
+    }
+
+    .owl-dot {
+    height: 20px;
+    width: 20px;
+    background-color: #d6d6d6;
+    display: inline-block;
+    margin: 0 7px;
+    border-radius: 30px;
+    position: relative;
+}
+
+.owl-dot.active:after {
+    content: '';
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    height: 12px;
+    width: 12px;
+    background-color: #33a0e4;
+    border-radius: 30px;
+    border: 3px solid #fff;
+}
+
+.lenta_head span{
+    font-size: 33px;
+}
+
+.lenta{
+    background: url('../img/lenta_mob.png.jpg')/*tpa=http://c.myflextape.ru/v1/img/lenta_mob.png*/ no-repeat;
+    background-position-y: 50px;
+    padding-bottom: 10px;
+}
+
+.lenta_head{
+    font-size: 16px;
+    padding-top: 5px;
+    margin-bottom: 190px;
+}
+
+.lenta p{
+    font-size: 11px;
+    padding: 0 10px;
+}
+
+.chudo_head{
+    font-size: 23px;
+    margin-bottom: 15px;
+}
+
+.chudo{
+    padding: 10px;
+    background-repeat: repeat;
+}
+
+.chudo_img div{
+    font-size: 15px;
+    top: 5px;
+    right: 0;
+}
+
+.chudo_img span{
+    left: 16px;
+    top: 0;
+    font-size: 21px;
+}
+
+.chudo_img p{
+    font-size: 11px;
+}
+
+.chudo .row{
+    margin-right: -10px;
+    margin-left: -10px;
+}
+
+.skills_head{
+    font-size: 21px;
+    margin-bottom: 0;
+}
+
+.skills_wrapper{
+    padding: 0;
+}
+
+.skills_item{
+    height: 50px;
+    margin: 8px 0;
+}
+
+.skills_item p{
+    font-size: 11px;
+    padding-left: 37px;
+    padding-top: 9px;
+}
+
+.skills .row{
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.skills_item img{
+    width: 40px;
+    left: -7px;
+}
+
+.skills_wrapper .row .col-xs-6:first-child{
+    padding-right: 7px;
+}
+
+.skills_wrapper .row .col-xs-6:last-child{
+    padding-left: 7px;
+}
+
+.skills .zak_btn{
+    margin-top: 15px;
+}
+
+.spec_head{
+    font-size: 22px;
+}
+
+.spec_img img{
+    width: auto;
+    float: left;
+}
+
+.spec{
+    padding: 0 15px;
+    background: url('../img/spec_bg_mob.png')/*tpa=http://c.myflextape.ru/v1/img/spec_bg_mob.png*/ no-repeat;
+}
+
+.spec_img address{
+    padding: 12px 40px 27px 0;
+}
+
+.spec_text{
+    color: #000;
+    font-size: 11px;
+    margin-top: 8px;
+    padding-bottom: 10px;
+}
+
+.algoritm_head{
+    font-size: 22px;
+}
+
+.algoritm_item img{
+    width: 100%;
+}
+
+.algoritm_wrapper .row .col-xs-6:last-child .algoritm_item:after{
+    display: none;
+}
+
+.algoritm_item>span{
+    left: 16px;
+    top: 30px;
+}
+
+.algoritm_item p{
+    font-size: 9px;
+}
+
+.algoritm_item:after{
+    -webkit-background-size: 36px;
+    background-size: 36px;
+    top: 46px;
+    right: -42px;
+}
+
+.reviews_head{
+    font-size: 24px;
+}
+
+.reviews .owl-carousel .owl-item img{
+    width: auto;
+}
+
+.reviews{
+    padding: 0 20px 20px;
+}
+
+.reviews .owl-nav{
+    display: block !important;
+    position: relative;
+    top: 20px;
+}
+
+.reviews_item span{
+    padding: 28px 0 0 0;
+}
+
+.reviews_item p{
+    font-size: 13px;
+}
+
+.owl-carousel .owl-item img{
+    top: 12px;
+}
+
+.owl-prev, .owl-next {
+    width: 13px;
+    height: 22px;
+}
+
+.owl-next {
+    background: url(../img/right.png)/*tpa=http://c.myflextape.ru/v1/img/right.png*/ no-repeat;
+    position: absolute;
+    right: 0;
+    z-index: 1;
+}
+
+.owl-prev{
+    background: url(../img/left.png)/*tpa=http://c.myflextape.ru/v1/img/left.png*/ no-repeat;
+    position: absolute;
+    left: 0;
+    z-index: 1;
+}
+
+.reviews .zak_btn{
+    margin: 0;
+}
+
+.pressa_head{
+    padding: 15px 0;
+    text-align: center;
+    font-size: 33px;
+}
+
+.pressa{
+    padding: 1px 10px;
+    background-repeat: repeat;
+}
+
+.pressa_img img{
+    width: 100px;
+}
+
+.pressa_item{
+    height: 80px;
+    margin-bottom: 40px;
+}
+
+.pressa_text{
+    padding-left: 105px;
+    padding-top: 5px;
+}
+
+.pressa_text span{
+    font-size: 11px;
+    display: block;
+    line-height: 1;
+
+}
+
+.pressa_text p{
+    margin-top: 5px;
+    font-size: 10px;
+}
+
+.pressa .pressa_item:nth-child(3) .pressa_img{
+    right: 0;
+}
+
+.pressa .pressa_item:nth-child(3) .pressa_text{
+    padding-left: 7px;
+    padding-right: 105px;
+}
+
+footer .product_wrapper{
+    background: url('../img/footer_mob.png')/*tpa=http://c.myflextape.ru/v1/img/footer_mob.png*/ no-repeat;
+}
+
+footer .product_wrapper img{
+    width: 160px;
+}
+
+.discount{
+    position: absolute;
+    top: 80px;
+    right: 15px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 1;
+}
+
+footer .price__new{
+    top: 130px;
+}
+
+footer .price__old{
+    top: 130px;
+}
+
+.footer_text{
+    text-align: center;
+    font-family: "CenturyGothicBold";
+    text-transform: uppercase;
+    font-size: 15px;
+    position: relative;
+    bottom: 14px;
+}
+
+.countdown{
+    text-align: center;
+}
+
+.countdown__item{
+    display: inline-block;
+    font-size: 60px;
+    position: relative;
+    margin: 0 12px;
+}
+
+.timer_wrapper{
+     background: url('../img/timer_bg.png')/*tpa=http://c.myflextape.ru/v1/img/timer_bg.png*/ no-repeat;
+     padding-bottom: 7px;
+}
+
+.form__list .form__input, select{
+    height: 40px;
+}
+
+.timer{
+    font-family: "CenturyGothicBold";
+    display: block;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding-top: 10px;
+}
+
+.hour:after, .minute:after {
+    content: ':';
+    position: absolute;
+    right: -20px;
+}
+
+footer .form__btn{
+    font-size: 20px;
+    padding: 10px 0;
+}
+
+.uspey span:last-child{
+    font-size: 30px;
+}
+
+.uspey span:first-child{
+    font-size: 14px;
+    bottom: 5px;
+}
+
+}

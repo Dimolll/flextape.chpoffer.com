@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "CenturyGothicBold";
+    src: url("../fonts/CenturyGothic/Bold/bold.eot")/*tpa=http://c.myflextape.ru/v1/fonts/CenturyGothic/Bold/bold.eot*/;
+    src: url("../fonts/CenturyGothic/Bold/bold.eot-")/*tpa=http://c.myflextape.ru/v1/fonts/CenturyGothic/Bold/bold.eot?#iefix*/format("embedded-opentype"),
+    url("../fonts/CenturyGothic/Bold/bold.woff")/*tpa=http://c.myflextape.ru/v1/fonts/CenturyGothic/Bold/bold.woff*/ format("woff"),
+    url("../fonts/CenturyGothic/Bold/bold.ttf")/*tpa=http://c.myflextape.ru/v1/fonts/CenturyGothic/Bold/bold.ttf*/ format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
